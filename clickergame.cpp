@@ -15,5 +15,6 @@ int main(){
 
     getch();
     cout << "Hi" << endl;
+    cout << "Hello" << endl;
     return 0;                                                                                               
 }
